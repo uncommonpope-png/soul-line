@@ -35,17 +35,17 @@ daily video limit. Soul finishes Law 1 — it is your reference, not your assign
 - Build script: `handoff/build_law1_template.py` IS this episode's real builder, sanitized
   only in its data paths. Study it. `build_h11_template.py` is the earlier 10-line variant.
 
-## Your production queue (after the TEST-TASK passes)
+## Production lanes (two agents, parallel — updated 2026-11-08)
 
-1. **Block Etiquette** — BE1.1 full build first (your test is its first scene), then in order.
-   Storyboards + the research rulebook are in this repo.
-2. **The 222 Laws** — from Law 2 onward (Law 1 is Soul's, above). Same structure as Law 1:
-   law card → demonstration → ruling.
-3. Then the remaining satire books in shelf order: The Collection · The Come Up · The Cookout ·
-   The Group Chat · The Barbershop · The Lowball.
+- **Agent 1 → Block Etiquette.** Test: BE1.1 receipt + scene still (TEST-TASK.md).
+  Then BE1.1 full build, then the series in order. Storyboards + research rulebook are in this repo.
+- **Agent 2 → The 222 Laws, Laws 2–48.** Test: Law 2 receipt + scene still (TEST-TASK-AGENT2.md).
+  Then Law 2 full build, then in order. Law 1 is Soul's reference build (above).
+- **Unassigned, in order, as lanes free up:** The Collection · The Come Up · The Cookout ·
+  The Group Chat · The Barbershop · The Lowball.
 
-One episode at a time, delivered and graded before the next. Volume comes from the queue
-being long, not from skipping the gate.
+One episode at a time per agent, delivered and graded before the next. Volume comes from
+the queue being long, not from skipping the gate. Never work another agent's lane.
 
 ## Status board (so you never redo finished work)
 
