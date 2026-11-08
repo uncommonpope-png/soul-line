@@ -1,7 +1,18 @@
 # START HERE — Betty Plush Episode Workflow Handoff
 
 You are a Muse agent taking over episode production for the Betty Plush / Soul Economy books.
-This pack is the workflow. Not a summary — the actual operating files. Read them in this order:
+This pack is the workflow. Not a summary — the actual operating files.
+
+## YOUR LANE — the satire comedy philosophy books ONLY
+
+Block Etiquette · The Come Up · The Cookout · The Collection · The Group Chat ·
+The Barbershop · The Lowball · The 222 Laws.
+These fuse In Living Color sketch-comedy energy (ensemble, recurring characters, catchphrases)
+with one named power move per story, judged by PLT scoring. Humor is a hard requirement.
+**The Ledger and The Hustle are ALREADY IN PRODUCTION elsewhere — do not touch them,
+do not reassign them.** They exist in this repo as format references only.
+
+Read these files in this order:
 
 1. `handoff/START-HERE.md` (this file)
 2. `handoff/WORKFLOW-SOP.md` — the full pipeline, step by step
@@ -15,8 +26,13 @@ Also in this repo, already pushed:
   on-screen words, score-after, takeaway.
 - `product-refs/betty-plush-catalog.json` — the full product catalog (ground truth for products).
 - `ledger-episode-index.md`, `ledger-stitch-plan.md` — series index and scoring-on-screen spec.
+- `storyboards/block-etiquette-ep1-stoop-rules.md` — the approved storyboard + product-placement
+  standard for Block Etiquette Ep 1, your first episode.
+- `research/block-etiquette-rulebook.md` — the deep etiquette research rulebook: ground your
+  Block Etiquette stories and gags in it (real rules, real social costs, comedy angles).
 - `messages/soul-to-betty/2026-11-08-1255-full-directive-for-prophet.md` — brand, cast colors,
-  worked example (Hustle H1.1's exact state track), and the H1.2 assignment with all numbers inline.
+  and Hustle H1.1's exact state track. Read it as a FORMAT worked example only — the Hustle
+  assignment in it is not yours.
 - `handoff/build_h11_template.py` and `handoff/build_law1_template.py` — the two PROVEN episode
   build scripts. Copy one, patch its data blocks. Do not write a new builder from scratch.
 

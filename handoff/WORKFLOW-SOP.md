@@ -1,5 +1,18 @@
 # WORKFLOW SOP — How an episode gets built
 
+## Scope — the satire comedy philosophy books
+
+This SOP serves the satire line ONLY: Block Etiquette, The Come Up, The Cookout, The Collection,
+The Group Chat, The Barbershop, The Lowball, The 222 Laws. (The Ledger and The Hustle are in
+production elsewhere — format references only.) The creative fusion, Betty's north star:
+**In Living Color** (sketch-comedy ensemble energy, recurring characters with catchphrases,
+pop-culture parody, fashion/music charge) × **one named power move per story** (original PLT
+maxims only — never Robert Greene's text or law titles) × **Betty Plush**, with PLT scoring as
+the judge that prices every move: power is funny until the Tax comes due. Humor is a HARD
+requirement, and the stories go deep — real etiquette, real stakes — not surface gags.
+Satire punches at poses, hype, and violations, never at anyone's dignity. For Block Etiquette,
+ground the work in `research/block-etiquette-rulebook.md` in this repo.
+
 ## Brand core (never changes)
 
 - Brand stack, exact order: **Betty Plush / 222 / Soul Collection Agency / A.G.M / PLT**
