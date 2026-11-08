@@ -14,9 +14,12 @@ already have access to. Do not ask for summaries and do not summarize back.
 
 Read these files in this order:
 1. `handoff/START-HERE.md`
-2. `handoff/WORKFLOW-SOP.md`
-3. `handoff/QA-GATE.md`
-4. `handoff/TEST-TASK.md`
+2. `handoff/CURRENT-WORKFLOW.md` — how the newest books and episodes were actually made,
+   with the 222 Laws Law 1 build as the worked example, your production queue, and the
+   status board. When older files conflict with it, it wins.
+3. `handoff/WORKFLOW-SOP.md`
+4. `handoff/QA-GATE.md`
+5. `handoff/TEST-TASK.md`
 
 Then do ONLY what TEST-TASK.md says: post your receipt (the files you read, Block
 Etiquette BE1.1's full state table extracted from `books/BLOCK-ETIQUETTE-full-episode-book.md`,

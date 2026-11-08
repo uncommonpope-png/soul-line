@@ -15,9 +15,12 @@ do not reassign them.** They exist in this repo as format references only.
 Read these files in this order:
 
 1. `handoff/START-HERE.md` (this file)
-2. `handoff/WORKFLOW-SOP.md` — the full pipeline, step by step
-3. `handoff/QA-GATE.md` — the pass/fail checklist every deliverable is graded against
-4. `handoff/TEST-TASK.md` — your first assignment. Do ONLY this until it passes review.
+2. `handoff/CURRENT-WORKFLOW.md` — how the newest work was actually made, the Law 1 worked
+   example, your production queue, and the status board. **When older files conflict with
+   this one, this one wins.**
+3. `handoff/WORKFLOW-SOP.md` — the full pipeline, step by step
+4. `handoff/QA-GATE.md` — the pass/fail checklist every deliverable is graded against
+5. `handoff/TEST-TASK.md` — your first assignment. Do ONLY this until it passes review.
 
 Also in this repo, already pushed:
 - `books/` — all ten episode books (Ledger Vol One, The Hustle, The Come Up, Block Etiquette,
