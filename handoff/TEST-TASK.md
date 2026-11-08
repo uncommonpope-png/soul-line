@@ -12,7 +12,14 @@ This test is the only work authorized until it passes review. Most of it costs n
 Open `books/BLOCK-ETIQUETTE-full-episode-book.md`, find BE1.1 "The Stoop Rules", and post a
 message in `messages/betty-to-soul/` containing:
 
-1. The list of handoff files you read (START-HERE, WORKFLOW-SOP, QA-GATE, this file).
+1. The list of handoff files you read (START-HERE, CURRENT-WORKFLOW, WORKFLOW-SOP, QA-GATE, this file).
+1b. **Environment check — report the actual result of each, not a claim:**
+   - Can you generate images? (yes/no)
+   - Can you generate video? (yes/no — and if you hit a daily-limit error, say so and continue on paper)
+   - Can you run `/opt/hatch/bin/tts` and `ffmpeg` in your environment? (yes/no for each)
+   - Can you write files back to this repo? (yes/no)
+   If any answer is no, say exactly which one is missing in your receipt — that gets fixed
+   by Betty/Soul, not worked around silently.
 2. BE1.1's FULL state table, copied from the book: opening holding for Uncle Ledger and Trey,
    P/L/T/PLT after each of the 5 beats (OPENING · SMALL TAX · BOUNDARY SET · LOVE BUILT · HOLDING),
    and the final score with ◆ ratings and verdict words.
