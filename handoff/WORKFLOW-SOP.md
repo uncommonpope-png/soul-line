@@ -74,6 +74,12 @@ Every scene still, in every series:
    is a bad clip.
 4. Animate each still: locked camera, small movements only, silent. (Daily video budget —
    if you hit a 429, stop; finish everything else and report.)
+   **FFMPEG-MOTION FALLBACK (Betty's standing rule, set on Law 1, 2026-11-08):** if AI
+   animation is unavailable and an episode is finished with ffmpeg motion instead, NEVER
+   use one image per scene — one drifting image is dead air. Build a SHOT LIST: multiple
+   images per scene (new poses/moments/angles generated as stills, plus tight close-up
+   crops and punch-ins of the scene stills), a cut on nearly every dialogue line, drift
+   on every shot so nothing sits frozen. Law 1 shipped this way: 10 shots, 6 stills.
 5. Copy `build_h11_template.py` (2-character scored episode) or `build_law1_template.py`
    (12-line variant). Patch ONLY the data blocks: LINES, CAPS, STATES, STATE_LINE, CHIPS,
    NAMES, the two PIL cards, scene spans, `src` filenames, output path.
